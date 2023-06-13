@@ -1,0 +1,11 @@
+params:
+  author: "Konrad 'Kayn' Rudnicki + Wojciech 'Ivern' Skuła"
+  book_id: 6761
+
+picture:
+  path: "resources/first_photo.jpg"
+  path_edited: "resources/first_photo_edited.jpg"
+  watermark_text: "Downloaded from\nProject Gutenberg"
+
+docx:
+  path: "/"
